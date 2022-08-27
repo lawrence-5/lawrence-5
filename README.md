@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lawrence-5
-- 👀 I’m interested in Java,Go,VBA,SHELL,Powershell,Python
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in AWS,Java,Go,Terraform,Cloudformation,VBA,SHELL,Powershell,Python
+- 🌱 I’m currently learning AWS,Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 ibmgdc@yahoo.co.jp
 
